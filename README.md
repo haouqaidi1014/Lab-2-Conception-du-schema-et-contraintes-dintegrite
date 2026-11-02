@@ -76,6 +76,7 @@ les verifications des donnees :
 <img width="1907" height="1037" alt="image" src="https://github.com/user-attachments/assets/2ff82f3e-e5e9-48d3-bb49-1c74f2f57650" />
 
 
+<img width="1198" height="122" alt="Capture d&#39;écran 2026-11-02 233831" src="https://github.com/user-attachments/assets/d5746cf7-2624-47f6-83c3-3dff2ff810cc" />
 
 
 
